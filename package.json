@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "author": "hrithik",
-  "license": "ISC",
+  "author": "Mohit",
+  "license": "None",
   "dependencies": {
     "body-parser": "^1.18.3",
     "cloudinary": "^1.13.2",
